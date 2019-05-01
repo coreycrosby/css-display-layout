@@ -1,0 +1,82 @@
+
+.heading > h1 {
+    background-color: rgb(51, 51, 51);
+    font-size: 40px;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    margin: 0px;
+    display: block;
+    color: white;
+
+}
+
+.topnav {
+    text-align: center;
+    font-size: 25px;
+}
+
+.topnav a{
+    text-align: center;
+    background-color:lightgrey;
+    padding: 5px 10px;
+    display: inline-block;
+    color: white;
+}
+
+.photos {
+    background-color: aquamarine;
+    font-size: 30px;   
+    padding: 0px 1px 0px 1px;
+    margin: 0px 20px 0px 20px;
+    display: block;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+    margin: 10px;
+}
+
+span {
+    font-weight: bold;
+    text-decoration: underline yellow;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    vertical-align: top;
+    text-align: center;
+    /* width: 120px; */
+}
+
+.card {
+    display: inline-block;
+    width: 32%;
+}
+
+img {
+    width: 200px;
+    height: 400px;
+    background-color: grey;
+    width: 100%;
+}
+
+.caption {
+    display: block;
+    font-size: 18px;
+    background-color: gold;
+    color: blue;
+    text-decoration: underline;   
+}
+
+section {
+    display: inline-block;
+}
+
